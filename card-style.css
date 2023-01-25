@@ -1,5 +1,9 @@
 body {
-    font-family: "Raleway", sans-serif;
+    font-family: "Raleway",sans-serif;
+}
+
+img {
+    width: 128px;
 }
 
 /* container for cards */
